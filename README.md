@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=130&width=auto&color=gradient)
+![](https://capsule-render.vercel.app/api?type=waving&height=110&width=auto&color=gradient)
 
 <h1 align="center">Namasthey 🙏, I'm Reddy Divakar.</h1>
 <h3 align="center">A Full Stack Web Developer from India.</h3>
