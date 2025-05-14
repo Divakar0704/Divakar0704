@@ -1,11 +1,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=130&width=auto&color=gradient)
 
-<h1 align="center">Namasthey 🙏🏻, I'm Reddy Divakar.</h1>
+<h1 align="center">Namasthey 🙏, I'm Reddy Divakar.</h1>
 <h3 align="center">A Full Stack Web Developer from India.</h3>
 
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/reddy-divakar-56ba20259"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:reddydivakar4832@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
@@ -69,6 +69,4 @@
 
 ---
 
-[<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC5EFF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+Have+a+great+day!+🚀" alt="Thank you message" />
-</p>](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&animation=fadeIn&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
