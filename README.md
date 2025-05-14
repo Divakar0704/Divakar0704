@@ -1,19 +1,21 @@
-<h1 align="center">Namasthey 🙏🏻, I'm Reddy Divakar.</h1>
-<h3 align="center">A Full Stack Web developer from India.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=DC5EFF&center=true&vCenter=true&width=435&lines=Namasthey+%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Reddy+Divakar.;A+Full+Stack+Web+Developer+from+India" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divakar0704&label=Profile%20views&color=0e75b6&style=flat" alt="divakar0704" /> </p>
+<h1 align="center">Namasthey 🙏🏻, I'm Reddy Divakar.</h1>
+<h3 align="center">A Full Stack Web Developer from India.</h3>
+
 
 ## 🌐 Socials:
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/reddy-divakar-56ba20259"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:reddydivakar4832@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently working on **React js**
-- 🌱 I’m currently learning **Next.js, Docker**
+---
 
 # 💻 Tech Stack:
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
@@ -40,23 +42,35 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
 # 📊 GitHub Stats:
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Divakar0704&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar0704&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=Divakar0704&theme=dark&hide_border=false" /></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Divakar0704&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_title=true" height="180px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar0704&theme=radical&hide_border=false&layout=compact&hide_title=true" height="180px"/>
+    </td>
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo
+---
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Divakar0704&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://komarev.com/ghpvc/?username=divakar0704&label=Profile%20views&color=DC5EFF&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC5EFF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+Have+a+great+day!+🚀" alt="Thank you message" />
 </p>
