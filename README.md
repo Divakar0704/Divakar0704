@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=DC5EFF&center=true&vCenter=true&width=435&lines=Namasthey+%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Reddy+Divakar.;A+Full+Stack+Web+Developer+from+India" alt="Typing SVG" />
-</p>
+![](https://capsule-render.vercel.app/api?type=waving&height=130&width=auto&color=gradient)
 
 <h1 align="center">Namasthey 🙏🏻, I'm Reddy Divakar.</h1>
 <h3 align="center">A Full Stack Web Developer from India.</h3>
@@ -71,6 +69,6 @@
 
 ---
 
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC5EFF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+Have+a+great+day!+🚀" alt="Thank you message" />
-</p>
+</p>](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&animation=fadeIn&section=footer)
